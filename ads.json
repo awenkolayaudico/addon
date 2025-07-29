@@ -1,1 +1,27 @@
-
+[
+    {
+        "id": "ad001",
+        "image_url": "https://i.imgur.com/example1.png",
+        "target_url": "https://www.your-advertiser-1.com"
+    },
+    {
+        "id": "ad002",
+        "image_url": "https://i.imgur.com/example2.png",
+        "target_url": "https://www.your-advertiser-2.com"
+    },
+    {
+        "id": "ad003",
+        "image_url": "https://i.imgur.com/example3.png",
+        "target_url": "https://www.your-advertiser-3.com"
+    },
+    {
+        "id": "ad004",
+        "image_url": "https://i.imgur.com/example4.png",
+        "target_url": "https://www.your-advertiser-4.com"
+    },
+    {
+        "id": "ad005",
+        "image_url": "https://i.imgur.com/example5.png",
+        "target_url": "https://www.your-advertiser-5.com"
+    }
+]
