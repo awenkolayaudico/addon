@@ -16,5 +16,23 @@
       },
       "signature": "j9oxOOQlXOoyRMy+W+cROiFxjSjfPPHDSSczAmJUDtDZQrGlXl5QulVhSEEArkUMQf6oPNRE4Qsvhd0pyVAKPJTiEK1X9YgvUPVK69gJCZ5bXJAK27RfOyBKfrux39WtA1MMhQHufnC7A92BtljiNW/6ctnK29MuRTvZ7SXNdX2uUwFroUWvJmVvO+C+Ebum6yI1XS7VOCB9pRiV5Yo9yEcnnwEQzThcJpUD6T1oFHjNc+ENdSNkeA9sModJ3c85+7v1yEa030gHaCt0GxlEpqOh9qR4w5qfbCkrAUSuZle1bPWkQTyzHQme3NQYUwxRRAlTAJNe4wONq6Oh0yq0OA=="
     }
+  },
+  {
+    "id": "json_file_handler_module",
+    "name": "File: JSON Handler",
+    "author": "Awenk Audico",
+    "version": "1.0",
+    "description": "A great component: File: JSON Handler",
+    "tier": "pro",
+    "download_url": "https://github.com/awenkolayaudico/addon/raw/main/modul/json_file_handler_module.zip",
+    "license": {
+      "data": {
+        "user_email": "anonymous@teetah.art",
+        "tier": "pro",
+        "expiry_date": "2035-07-28",
+        "license_key": "FLW-PRO-FD21-45EB"
+      },
+      "signature": "RGWpBMvz9EuAjY8NftrWCWfKDDln9Zufdm0nsaS/TvTBvTWEK/plBmkwkYwsqjZrlf+4oGnYQ8rQiMWKiL+uVnp98rssE7ZFBzaAy/7+8ExXTBzHhc8T7gcvc50Ggm7QRp+mqgJiVKUGeaxxr27ICKk6J4SzJ71++q0UTmqVNxdmxkO5rcxiDXteHDZksUOeS+BKNYwUZDdgOWaE6ITeX0tHHFpfqMh3ss+Rc92oFTdrUfDcub9JJMRSD/Zm3hpwMo1XxtQIZzmJ97DcCcFAJ0vMEQx4Gq1oLH50qTEqOi98MUBAmrPuo2YLzHoV8A/ly9zlCf4orB70QV4z9H3R+A=="
+    }
   }
 ]
