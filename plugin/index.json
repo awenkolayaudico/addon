@@ -1,0 +1,20 @@
+[
+  {
+    "id": "metrics_logger_plugin",
+    "name": "Metrics Logger Service",
+    "author": "awenk audico & gemini",
+    "version": "1.0",
+    "description": "A great component: Metrics Logger Service",
+    "tier": "free",
+    "download_url": "https://github.com/awenkolayaudico/addon/raw/main/plugin/metrics_logger_plugin.zip",
+    "license": {
+      "data": {
+        "user_email": "anonymous@teetah.art",
+        "tier": "free",
+        "expiry_date": "2035-07-28",
+        "license_key": "FLW-FRE-5937-404C"
+      },
+      "signature": "/nOx786uXuQAjT+9Wcr2LhomupTKo+rS7pAfTHdOE9Ox//hOmuMlQbL6ZrqGyoVt36O0RusV4GQlRDvHv7pgqsFiq8NjQ3buJGZzl8QCUfSHbZeCazBbKo8czARI3XEfss++PsQKgQdL56EBoYGOb1gjkCAu6FsCJTsdOjxFf4vem/wvLTTtdmIcZRYrWVGGjhlmMawGtXeLYDmP0/Zab2lxIwYixxq7TqRJJw2Xf8aCqWBJTKn+DT4B6DbhCim5nHyWkSNQmbTFPQ4QecnIOqAoMxD6gq9FKibTor4VhBTP31cVH86BLlh3kCKue+1VKMp5K0JGNMy14exkyGlWAQ=="
+    }
+  }
+]
