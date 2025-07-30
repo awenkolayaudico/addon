@@ -1,27 +1,16 @@
 [
     {
         "id": "ad001",
-        "image_url": "https://go.trader.ca/wp-content/uploads/2022/02/250X250.png",
+        "title": "Diskon Hosting 50%!",
+        "text": "Dapatkan hosting developer super cepat dengan potongan harga khusus bulan ini.",
+        "button_text": "Klaim Sekarang",
         "target_url": "https://www.your-advertiser-1.com"
     },
     {
         "id": "ad002",
-        "image_url": "https://go.trader.ca/wp-content/uploads/2022/02/250X250.png",
+        "title": "Kursus Python Lanjutan",
+        "text": "Tingkatkan skill coding-mu ke level selanjutnya bersama para ahli.",
+        "button_text": "Lihat Kurikulum",
         "target_url": "https://www.your-advertiser-2.com"
-    },
-    {
-        "id": "ad003",
-        "image_url": "https://go.trader.ca/wp-content/uploads/2022/02/250X250.png",
-        "target_url": "https://www.your-advertiser-3.com"
-    },
-    {
-        "id": "ad004",
-        "image_url": "https://go.trader.ca/wp-content/uploads/2022/02/250X250.png",
-        "target_url": "https://www.your-advertiser-4.com"
-    },
-    {
-        "id": "ad005",
-        "image_url": "https://go.trader.ca/wp-content/uploads/2022/02/250X250.png",
-        "target_url": "https://www.your-advertiser-5.com"
     }
 ]
