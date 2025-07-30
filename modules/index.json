@@ -9,5 +9,16 @@
         "tier": "free",
         "download_url": "https://raw.githubusercontent.com/awenkolayaudico/addon/main/modules/if_module.zip",
         "last_updated": "2025-07-30T08:55:10.925550"
+    },
+    {
+        "id": "ai_center_module",
+        "name": "AI Center",
+        "version": "1.0",
+        "author": "Licensed User",
+        "email": "no-reply@example.com",
+        "description": "tes",
+        "tier": "free",
+        "download_url": "https://raw.githubusercontent.com/awenkolayaudico/addon/main/modules/ai_center_module.zip",
+        "last_updated": "2025-07-30T08:59:11.217477"
     }
 ]
