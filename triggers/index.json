@@ -1,0 +1,11 @@
+[
+  {
+    "id": "event_bus_trigger",
+    "name": "event_bus_trigger",
+    "author": "Community Contributor",
+    "version": "1.0",
+    "description": "A great component: Pemicu Event Bus Internal",
+    "tier": "free",
+    "download_url": "https://github.com/awenkolayaudico/addon/raw/main/triggers/event_bus_trigger.zip"
+  }
+]
