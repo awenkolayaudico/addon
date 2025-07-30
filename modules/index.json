@@ -20,5 +20,16 @@
         "tier": "free",
         "download_url": "https://raw.githubusercontent.com/awenkolayaudico/addon/main/modules/decode_base64_text_1998.zip",
         "last_updated": "2025-07-30T09:13:18.720957"
+    },
+    {
+        "id": "ai_center_module",
+        "name": "AI Center",
+        "version": "1.0",
+        "author": "sahidinaola",
+        "email": "sahidinaola@gmail.com",
+        "description": "Aaasasasasa",
+        "tier": "free",
+        "download_url": "https://raw.githubusercontent.com/awenkolayaudico/addon/main/modules/ai_center_module.zip",
+        "last_updated": "2025-07-30T09:14:57.367473"
     }
 ]
