@@ -1,0 +1,13 @@
+[
+    {
+        "id": "if_module",
+        "name": "IF ELSE",
+        "version": "1.1.0",
+        "author": "Licensed User",
+        "email": "no-reply@example.com",
+        "description": "Evaluates a condition and directs the workflow to the 'True' or 'False' branch based on the result.",
+        "tier": "free",
+        "download_url": "https://raw.githubusercontent.com/awenkolayaudico/addon/main/modules/if_module.zip",
+        "last_updated": "2025-07-30T08:55:10.925550"
+    }
+]
