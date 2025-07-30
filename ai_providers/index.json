@@ -7,5 +7,14 @@
     "description": "A great component: Dummy AI Provider",
     "tier": "free",
     "download_url": "https://raw.githubusercontent.com/awenkolayaudico/addon/main/ai_providers/dummy_ai_provider.zip"
+  },
+  {
+    "id": "gemini_provider",
+    "name": "gemini_provider",
+    "author": "Community Contributor",
+    "version": "1.0",
+    "description": "A great component: Google Gemini AI Provider",
+    "tier": "free",
+    "download_url": "https://raw.githubusercontent.com/awenkolayaudico/addon/main/ai_providers/gemini_provider.zip"
   }
 ]
