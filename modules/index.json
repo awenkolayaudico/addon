@@ -9,5 +9,16 @@
         "tier": "free",
         "download_url": "https://raw.githubusercontent.com/awenkolayaudico/addon/main/modules/if_module.zip",
         "last_updated": "2025-07-30T09:09:56.597338"
+    },
+    {
+        "id": "decode_base64_text_1998",
+        "name": "Decode Base64 Text",
+        "version": "1.0",
+        "author": "sahidinaola",
+        "email": "sahidinaola@gmail.com",
+        "description": "ALUR KERJA",
+        "tier": "free",
+        "download_url": "https://raw.githubusercontent.com/awenkolayaudico/addon/main/modules/decode_base64_text_1998.zip",
+        "last_updated": "2025-07-30T09:12:53.887696"
     }
 ]
