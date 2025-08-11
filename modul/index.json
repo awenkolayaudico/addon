@@ -18,5 +18,15 @@
     "tier": "free",
     "author_id": "FLW-ENT-0847-6380",
     "download_url": "https://github.com/awenkolayaudico/addon/raw/main/modul/ai_center_module.zip"
+  },
+  {
+    "id": "debug_popup_module",
+    "name": "debug_popup_module",
+    "author": "Community Contributor",
+    "version": "1.0",
+    "description": "A great component: Tampilkan Output (Popup)",
+    "tier": "free",
+    "author_id": "FLW-ENT-0847-6380",
+    "download_url": "https://github.com/awenkolayaudico/addon/raw/main/modul/debug_popup_module.zip"
   }
 ]
