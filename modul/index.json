@@ -8,5 +8,15 @@
     "tier": "free",
     "author_id": "FLW-ENT-0847-6380",
     "download_url": "https://github.com/awenkolayaudico/addon/raw/main/modul/advanced_web_scraper_module_1a2b.zip"
+  },
+  {
+    "id": "ai_center_module",
+    "name": "ai_center_module",
+    "author": "Community Contributor",
+    "version": "1.0",
+    "description": "A great component: AI Center",
+    "tier": "free",
+    "author_id": "FLW-ENT-0847-6380",
+    "download_url": "https://github.com/awenkolayaudico/addon/raw/main/modul/ai_center_module.zip"
   }
 ]
