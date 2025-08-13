@@ -28,5 +28,15 @@
     "tier": "free",
     "author_id": "FLW-ENT-0847-6380",
     "download_url": "https://github.com/awenkolayaudico/addon/raw/main/modul/debug_popup_module.zip"
+  },
+  {
+    "id": "email_sender_module_b5c6",
+    "name": "email_sender_module_b5c6",
+    "author": "Community Contributor",
+    "version": "1.0",
+    "description": "A great component: Email Sender",
+    "tier": "basic",
+    "author_id": "FLW-ARC-A243-B65B",
+    "download_url": "https://github.com/awenkolayaudico/addon/raw/main/modul/email_sender_module_b5c6.zip"
   }
 ]
