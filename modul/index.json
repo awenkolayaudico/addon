@@ -48,5 +48,15 @@
     "tier": "basic",
     "author_id": "FLW-ARC-A243-B65B",
     "download_url": "https://github.com/awenkolayaudico/addon/raw/main/modul/excel_manager_module.zip"
+  },
+  {
+    "id": "text_to_json_converter_module",
+    "name": "text_to_json_converter_module",
+    "author": "Community Contributor",
+    "version": "1.0",
+    "description": "A great component: Text to JSON Converter",
+    "tier": "free",
+    "author_id": "FLW-ARC-A243-B65B",
+    "download_url": "https://github.com/awenkolayaudico/addon/raw/main/modul/text_to_json_converter_module.zip"
   }
 ]
