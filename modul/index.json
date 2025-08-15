@@ -38,5 +38,15 @@
     "tier": "basic",
     "author_id": "FLW-ARC-A243-B65B",
     "download_url": "https://github.com/awenkolayaudico/addon/raw/main/modul/email_sender_module_b5c6.zip"
+  },
+  {
+    "id": "excel_manager_module",
+    "name": "excel_manager_module",
+    "author": "Community Contributor",
+    "version": "1.0",
+    "description": "A great component: Spreadsheet (Excel) Manager",
+    "tier": "basic",
+    "author_id": "FLW-ARC-A243-B65B",
+    "download_url": "https://github.com/awenkolayaudico/addon/raw/main/modul/excel_manager_module.zip"
   }
 ]
